@@ -5,3 +5,5 @@ This Website is created using WordPress and it's my very first so bear with me i
 The numeric folders are the static sets. 
 
 Main code can be found in index file. 
+
+You can also visit the website directly on www.nsurance-holdings.com
